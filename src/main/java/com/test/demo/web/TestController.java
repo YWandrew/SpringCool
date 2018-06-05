@@ -38,8 +38,8 @@ public class TestController {
     public List<Map<String,Object>> getTheTestls(){
         List<Map<String,Object>>  ls =  new ArrayList<Map<String, Object>>();
         Map<String,Object> result = new HashMap<String, Object>();
-        result.put("test","this a map ");
-        result.put("test2","this a map ");
+        result.put("test","恶趣味驱蚊器饿p ");
+        result.put("test2","EDQEQW  a map ");
         result.put("32","this a map ");
         result.put("3232","this a map ");
         result.put("te23232st","this a map ");
